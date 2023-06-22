@@ -7,3 +7,6 @@ Whether you're a passionate fan, a dedicated player, or simply curious about the
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <h2> Live Website </h2>
 https://iamtanmay07.github.io/goal/
+<h2> Screen Shot </h2>
+<img src="https://github.com/iamtanmay07/goal/assets/96469706/f276ff1b-4a75-44f1-b304-547caa7b9c3f" alt="G O A L" />
+
